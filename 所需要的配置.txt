@@ -14,7 +14,7 @@ https://oo1o.cn
 🌧️当前小时累计降水量：{{precip.DATA}}
 💨风向：{{wind_dir.DATA}}
 ☄️大气压强：{{pressure.DATA}}
-{{birthday1.DATA}} 
+{{birthday1.DATA}}
 {{birthday2.DATA}}
 今天是我门相识的第{{love_day.DATA}}天
 
